@@ -1,0 +1,24 @@
+{
+  "name": "weibo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bufferhelper": "^0.2.1",
+    "cheerio": "^1.0.0-rc.3",
+    "iconv-lite": "^0.6.2",
+    "koa-router": "^9.1.0",
+    "node-schedule": "^1.3.2",
+    "superagent": "^5.3.1",
+    "superagent-charset": "^1.2.0"
+  },
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
